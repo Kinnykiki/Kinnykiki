@@ -1,4 +1,4 @@
-### Hi there 👋
+### This app makes a note. Thats it. What do you expect
 
 <!--
 **Kinnykiki/Kinnykiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
